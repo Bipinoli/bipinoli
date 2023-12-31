@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently:
   - [Building operating system kernel with Rust](https://github.com/Bipinoli/operating-system-from-scratch)
-  - [Reading a "Linux system programming" book](https://github.com/Bipinoli/linux-system-programming-study)
+  - [Reading the "Linux system programming" book](https://github.com/Bipinoli/linux-system-programming-study)
 
 <!--
 **Bipinoli/bipinoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
