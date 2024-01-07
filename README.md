@@ -21,11 +21,12 @@
   - [Shader programming](https://github.com/Bipinoli/shaders)
   - [Rasterization based 3D renderer](https://github.com/Bipinoli/Rasterization-3D-Renderer)
   - [Three.js experiments](https://github.com/Bipinoli/Three.js-fundamentals)
-  - [Tic tac toe game in Scala](https://github.com/Bipinoli/tictactoe-in-scala)
   - [NLP package to split complex sentence](https://github.com/Bipinoli/complex-sentence-splitter-to-simple-sentences)
   - [Web scraping](https://github.com/Bipinoli/scraping_body_building_data) 
  
 - 🕹️ Apps and Games:
+  - Scala:
+    - [Tic tac toe game in Scala](https://github.com/Bipinoli/tictactoe-in-scala)
   - Pure javascript:
     - [Conway's game of life simulation](https://github.com/Bipinoli/Conway-s-game-of-life)
     - [Tic tac toe AI](https://github.com/Bipinoli/Tic-Tac-Toe)
