@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently:
   - [Building operating system kernel with Rust](https://github.com/Bipinoli/operating-system-from-scratch)
+  - [Reading "Crafting interpreters" book and building interpreter in Rust along the way](https://github.com/Bipinoli/Crafting-Interpreter-in-Rust)
 
 - 👻 Past work:
   - [Distributed file system based on Frangipani paper](https://github.com/Bipinoli/distributed-file-system)
