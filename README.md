@@ -3,9 +3,12 @@
 - 🔭 I’m currently:
   - [Building operating system kernel with Rust](https://github.com/Bipinoli/operating-system-from-scratch)
   - [Reading "Crafting interpreters" book and building interpreter in Rust along the way](https://github.com/Bipinoli/Crafting-Interpreter-in-Rust)
-  - [Nand2Tetris](https://www.nand2tetris.org/)
-  - [Exploit education](https://exploit.education/)
+
+- 🔭 Thinking of doing next:
+  - [Going through Exploit education](https://exploit.education/)
   - [Going through Azeria labs tutorial](https://azeria-labs.com/writing-arm-assembly-part-1/)
+  - [Nand2Tetris](https://www.nand2tetris.org/)
+  - Tinkering with FPGAs and RISC-V ISA
 
 - 👻 Past work:
   - [Distributed file system based on Frangipani paper](https://github.com/Bipinoli/distributed-file-system)
