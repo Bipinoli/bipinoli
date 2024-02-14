@@ -5,6 +5,7 @@
   - [Reading "Crafting interpreters" book and building interpreter in Rust along the way](https://github.com/Bipinoli/Crafting-Interpreter-in-Rust)
   - [Nand2Tetris](https://www.nand2tetris.org/)
   - [Exploit education](https://exploit.education/)
+  - [Going through Azeria labs tutorial](https://azeria-labs.com/writing-arm-assembly-part-1/)
 
 - 👻 Past work:
   - [Distributed file system based on Frangipani paper](https://github.com/Bipinoli/distributed-file-system)
