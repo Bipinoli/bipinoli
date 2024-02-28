@@ -17,6 +17,7 @@
   - [Online price tracker with chrome extension](https://github.com/Bipinoli/Online-Price-Tracker-with-Chrome-Extension)
   - [Content aware image resizing](https://github.com/Bipinoli/Content-Aware-Image-Resizing-with-Seam-Carving)
   - [Raytracing based 3D renderer](https://github.com/Bipinoli/RayTracing-3D-Renderer)
+  - [Recursive DNS resolver similar to dig](https://github.com/Bipinoli/DNS-Resolver)
 
 - 🌱 Self-study notes:
   - [Linux system programming](https://github.com/Bipinoli/linux-system-programming-study)
