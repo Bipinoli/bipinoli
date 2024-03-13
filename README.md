@@ -5,6 +5,7 @@
   - [Reading "Crafting interpreters" book and building interpreter in Rust along the way](https://github.com/Bipinoli/Crafting-Interpreter-in-Rust)
 
 - 🔭 Thinking of doing next:
+  - Dig down into linux kernel packet capture (libpcap, bpf, etc)
   - [Pawn college](https://pwn.college/)
   - [Going through Exploit education](https://exploit.education/)
   - [Going through Azeria labs tutorial](https://azeria-labs.com/writing-arm-assembly-part-1/)
