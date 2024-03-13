@@ -6,6 +6,7 @@
 
 - 🔭 Thinking of doing next:
   - Dig down into linux kernel packet capture (libpcap, bpf, etc)
+  - Read seven concurrency model in seven weeks book
   - [Pawn college](https://pwn.college/)
   - [Going through Exploit education](https://exploit.education/)
   - [Going through Azeria labs tutorial](https://azeria-labs.com/writing-arm-assembly-part-1/)
