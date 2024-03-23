@@ -5,6 +5,7 @@
   - [Reading "Crafting interpreters" book and building interpreter in Rust along the way](https://github.com/Bipinoli/Crafting-Interpreter-in-Rust)
 
 - 🔭 Thinking of doing next:
+  - [Linux kernel development - Robert Love book](https://www.doc-developpement-durable.org/file/Projets-informatiques/cours-&-manuels-informatiques/Linux/Linux%20Kernel%20Development,%203rd%20Edition.pdf)
   - [Linux kernel book](https://tldp.org/LDP/tlk/tlk.html)
   - [Linux insides](https://0xax.gitbooks.io/linux-insides/content/)
   - [Operating systems 2 book](https://linux-kernel-labs.github.io/refs/heads/master/so2/index.html)
