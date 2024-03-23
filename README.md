@@ -5,7 +5,9 @@
   - [Reading "Crafting interpreters" book and building interpreter in Rust along the way](https://github.com/Bipinoli/Crafting-Interpreter-in-Rust)
 
 - 🔭 Thinking of doing next:
-  - [Study Linux](https://tldp.org/LDP/tlk/tlk.html)
+  - [Linux kernel book](https://tldp.org/LDP/tlk/tlk.html)
+  - [Linux insides](https://0xax.gitbooks.io/linux-insides/content/)
+  - [Operating systems 2 book](https://linux-kernel-labs.github.io/refs/heads/master/so2/index.html)
   - Dig down into linux kernel packet capture (libpcap, bpf, etc)
   - Read seven concurrency model in seven weeks book
   - [Pawn college](https://pwn.college/)
