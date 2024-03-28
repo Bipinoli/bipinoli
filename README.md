@@ -1,11 +1,13 @@
 ### Hi there 👋
 
 - 🔭 I’m currently:
+  - [Building a toy operating system](https://github.com/Bipinoli/pintos)
+
+- ✋ Paused:
   - [Building operating system kernel with Rust](https://github.com/Bipinoli/operating-system-from-scratch)
   - [Reading "Crafting interpreters" book and building interpreter in Rust along the way](https://github.com/Bipinoli/Crafting-Interpreter-in-Rust)
 
 - 🔭 Thinking of doing next:
-  - [PintOs project](https://web.stanford.edu/class/cs140/projects/pintos/pintos.html#SEC_Top)
   - [Linux kernel development - Robert Love book](https://www.doc-developpement-durable.org/file/Projets-informatiques/cours-&-manuels-informatiques/Linux/Linux%20Kernel%20Development,%203rd%20Edition.pdf)
   - [Linux kernel book](https://tldp.org/LDP/tlk/tlk.html)
   - [Linux insides](https://0xax.gitbooks.io/linux-insides/content/)
