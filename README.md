@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently:
-  - [Building a toy operating system](https://github.com/Bipinoli/pintos)
+  - [Building a toy operating system](https://github.com/Bipinoli/operating-system)
 
 - ✋ Paused:
   - [Building operating system kernel with Rust](https://github.com/Bipinoli/operating-system-from-scratch)
