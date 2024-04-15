@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently:
+  - [Learning about LLVM](https://github.com/Bipinoli/LLVM-Kaleidoscope)
   - Making a Lexcial analysis generator
 
 - ✋ Paused:
