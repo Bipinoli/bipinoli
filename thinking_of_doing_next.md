@@ -11,3 +11,5 @@
   - [Going through Azeria labs tutorial](https://azeria-labs.com/writing-arm-assembly-part-1/)
   - [Nand2Tetris](https://www.nand2tetris.org/)
   - Tinkering with FPGAs and RISC-V ISA
+  - https://www.malware-traffic-analysis.net/
+  - https://diveintosystems.org/
