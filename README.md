@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently:
-  - [Learning about LLVM](https://github.com/Bipinoli/LLVM-Kaleidoscope)
-  - ~~Making a Lexcial analysis generator~~
+  - [Building a simple B-tree based in-memory SQL database from scratch](https://github.com/Bipinoli/EasyPeasyDB)
 
 - ✋ Paused:
   - [Building operating system kernel with Rust](https://github.com/Bipinoli/operating-system-from-scratch)
