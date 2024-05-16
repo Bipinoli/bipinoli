@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently:
-  - [Building a simple B-tree based in-memory SQL database from scratch](https://github.com/Bipinoli/EasyPeasyDB)
+  - [Building a simple B-tree based SQL database from scratch](https://github.com/Bipinoli/EasyPeasyDB)
 
 - ✋ Paused:
   - [Building operating system kernel with Rust](https://github.com/Bipinoli/operating-system-from-scratch)
