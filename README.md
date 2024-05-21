@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently:
+  - [Verilog voyage: learning verilog](https://github.com/Bipinoli/verilog-voyage)
   - [Building a simple B-tree based SQL database from scratch](https://github.com/Bipinoli/EasyPeasyDB)
 
 - ✋ Paused:
