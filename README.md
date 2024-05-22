@@ -3,6 +3,7 @@
 - 🔭 I’m currently:
   - [Verilog voyage: learning verilog](https://github.com/Bipinoli/verilog-voyage)
   - [Building a simple B-tree based SQL database from scratch](https://github.com/Bipinoli/EasyPeasyDB)
+  - [Learning LLVM](https://github.com/Bipinoli/LLVM-Kaleidoscope)
 
 - ✋ Paused:
   - [Building operating system kernel with Rust](https://github.com/Bipinoli/operating-system-from-scratch)
