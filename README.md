@@ -26,6 +26,7 @@
   - [Playing with SMT solvers](https://github.com/Bipinoli/playing-with-SMT-solver)
   - [Shader programming](https://github.com/Bipinoli/shaders)
   - [Rasterization based 3D renderer](https://github.com/Bipinoli/Rasterization-3D-Renderer)
+  - [Algorithms & Datastructures](https://github.com/Bipinoli/Random-Algorithmic-Challenges)
   - [Three.js experiments](https://github.com/Bipinoli/Three.js-fundamentals)
 
 - 🔭 [Thinking of doing next](https://github.com/Bipinoli/bipinoli/blob/main/thinking_of_doing_next.md)
