@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently:
   - [VeriRISCy: Instruction pipelined RISC processor implementation](https://github.com/Bipinoli/VeriRISCy)
-  - [Verilog voyage: learning verilog](https://github.com/Bipinoli/verilog-voyage)
   - [Building a simple B-tree based SQL database from scratch](https://github.com/Bipinoli/EasyPeasyDB)
   - [Learning LLVM](https://github.com/Bipinoli/LLVM-Kaleidoscope)
 
@@ -20,6 +19,7 @@
 
 - 🌱 Self-study notes:
   - [Linux system programming](https://github.com/Bipinoli/linux-system-programming-study)
+  - [Verilog voyage: learning verilog](https://github.com/Bipinoli/verilog-voyage)
   - [Study of concolic execution](https://github.com/Bipinoli/Study-of-concolic-execution)
  
 - 🧪 Experiments:
