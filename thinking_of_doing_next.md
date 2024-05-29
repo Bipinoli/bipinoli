@@ -1,4 +1,6 @@
 ## 🔭 Thinking of doing next:
+
+  - [Algorithms for modern hardware](https://en.algorithmica.org/hpc/)
   - [Linux kernel development - Robert Love book](https://www.doc-developpement-durable.org/file/Projets-informatiques/cours-&-manuels-informatiques/Linux/Linux%20Kernel%20Development,%203rd%20Edition.pdf)
   - [Linux kernel book](https://tldp.org/LDP/tlk/tlk.html)
   - [Linux insides](https://0xax.gitbooks.io/linux-insides/content/)
