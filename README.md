@@ -21,6 +21,7 @@
   - [Linux system programming](https://github.com/Bipinoli/linux-system-programming-study)
   - [Verilog voyage: learning verilog](https://github.com/Bipinoli/verilog-voyage)
   - [Study of concolic execution](https://github.com/Bipinoli/Study-of-concolic-execution)
+  - [Coq proof assistant](https://github.com/Bipinoli/learning-coq)
  
 - 🧪 Experiments:
   - [Playing with SMT solvers](https://github.com/Bipinoli/playing-with-SMT-solver)
