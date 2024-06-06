@@ -4,6 +4,7 @@
   - [VeriRISCy: Instruction pipelined RISC processor implementation](https://github.com/Bipinoli/VeriRISCy)
   - [Building a simple B-tree based SQL database from scratch](https://github.com/Bipinoli/EasyPeasyDB)
   - [Learning LLVM](https://github.com/Bipinoli/LLVM-Kaleidoscope)
+  - learning TLA+
 
 - ✋ Paused:
   - [Building operating system kernel with Rust](https://github.com/Bipinoli/operating-system-from-scratch)
