@@ -23,6 +23,7 @@
   - [Verilog voyage: learning verilog](https://github.com/Bipinoli/verilog-voyage)
   - [Study of concolic execution](https://github.com/Bipinoli/Study-of-concolic-execution)
   - [Coq proof assistant](https://github.com/Bipinoli/learning-coq)
+  - [VHDL voyage: learning VHDL](https://github.com/Bipinoli/VHDL-voyage)
  
 - 🧪 Experiments:
   - [Playing with SMT solvers](https://github.com/Bipinoli/playing-with-SMT-solver)
