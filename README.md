@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently:
+  - [SAT solver based on DPLL algorithm](https://github.com/Bipinoli/DPLL-SAT-Solver)
   - [VeriRISCy: Instruction pipelined RISC processor implementation](https://github.com/Bipinoli/VeriRISCy)
   - [Building a simple B-tree based SQL database from scratch](https://github.com/Bipinoli/EasyPeasyDB)
   - [Learning LLVM](https://github.com/Bipinoli/LLVM-Kaleidoscope)
