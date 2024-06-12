@@ -2,16 +2,14 @@
 
 - 🔭 I’m currently:
   - [SAT solver based on DPLL algorithm](https://github.com/Bipinoli/DPLL-SAT-Solver)
-  - [VeriRISCy: Instruction pipelined RISC processor implementation](https://github.com/Bipinoli/VeriRISCy)
-  - [Building a simple B-tree based SQL database from scratch](https://github.com/Bipinoli/EasyPeasyDB)
-  - [Learning LLVM](https://github.com/Bipinoli/LLVM-Kaleidoscope)
-  - learning TLA+
 
 - ✋ Paused:
   - [Building operating system kernel with Rust](https://github.com/Bipinoli/operating-system-from-scratch)
   - [Building a stack based bytecode interpreter](https://github.com/Bipinoli/Crafting-Interpreter-in-Rust)
+  - [Building a simple B-tree based SQL database from scratch](https://github.com/Bipinoli/EasyPeasyDB)
 
 - 👻 Past work:
+  - [VeriRISCy: Instruction pipelined RISC processor implementation](https://github.com/Bipinoli/VeriRISCy)
   - [Distributed file system based on Frangipani paper](https://github.com/Bipinoli/distributed-file-system)
   - [LSTM-based music generation](https://github.com/Bipinoli/Music-Generation-with-LSTM)
   - [Online price tracker with chrome extension](https://github.com/Bipinoli/Online-Price-Tracker-with-Chrome-Extension)
