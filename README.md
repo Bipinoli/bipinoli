@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently:
-  - [SAT solver based on DPLL algorithm](https://github.com/Bipinoli/DPLL-SAT-Solver)
+  - Learning about compilers
+  
 
 - ✋ Paused:
   - [Building operating system kernel with Rust](https://github.com/Bipinoli/operating-system-from-scratch)
@@ -26,6 +27,7 @@
  
 - 🧪 Experiments:
   - [Playing with SMT solvers](https://github.com/Bipinoli/playing-with-SMT-solver)
+  - [SAT solver based on DPLL algorithm](https://github.com/Bipinoli/DPLL-SAT-Solver)
   - [Shader programming](https://github.com/Bipinoli/shaders)
   - [Rasterization based 3D renderer](https://github.com/Bipinoli/Rasterization-3D-Renderer)
   - [Algorithms & Datastructures](https://github.com/Bipinoli/Random-Algorithmic-Challenges)
