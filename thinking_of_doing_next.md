@@ -15,3 +15,4 @@
   - [Going through Azeria labs tutorial](https://azeria-labs.com/writing-arm-assembly-part-1/)
   - [Nand2Tetris](https://www.nand2tetris.org/)
   - https://www.malware-traffic-analysis.net/
+  - [Garbage collection handbook](https://gchandbook.org/contents.html)
