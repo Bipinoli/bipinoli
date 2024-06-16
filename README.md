@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently:
   - Learning about compilers
+  - Learning static program analysis
   
 
 - ✋ Paused:
