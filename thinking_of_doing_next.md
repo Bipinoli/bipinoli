@@ -1,5 +1,6 @@
 ## 🔭 Thinking of doing next:
 
+  - [Sea of nodes compiler IR](https://github.com/SeaOfNodes/Simple)
   - [Algorithms for modern hardware](https://en.algorithmica.org/hpc/)
   - [Compilers middle layer](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided)
   - [LLVM tutor](https://github.com/banach-space/llvm-tutor)
