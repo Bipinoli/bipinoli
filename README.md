@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently:
-  - Learning about compilers
-  - Learning static program analysis
+  - Learning Haskell, Clash & Hdl compilers
   
 
 - ✋ Paused:
