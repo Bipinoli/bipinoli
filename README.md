@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently:
-  - Learning Haskell, Clash & Hdl compilers
+  - [Learning Haskell](https://github.com/Bipinoli/scheme-in-48hrs), Clash & Hdl compilers
   
 
 - ✋ Paused:
