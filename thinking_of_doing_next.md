@@ -1,5 +1,6 @@
 ## 🔭 Thinking of doing next:
 
+  - [Fuzzing101](https://github.com/antonio-morales/Fuzzing101)
   - [Sea of nodes compiler IR](https://github.com/SeaOfNodes/Simple)
   - [Algorithms for modern hardware](https://en.algorithmica.org/hpc/)
   - [Compilers middle layer](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided)
