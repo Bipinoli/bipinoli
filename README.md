@@ -3,7 +3,7 @@
 - ✍️ Occasional [blogs](https://bipinoli.github.io/) 
 
 - 🔭 I’m currently:
-  - [Learning Haskell](https://github.com/Bipinoli/scheme-in-48hrs), Clash & Hdl compilers
+  - [Learning Haskell](https://github.com/Bipinoli/scheme-in-48hrs), [Clash & Hdl compilers](https://github.com/Bipinoli/VeriClash)
   
 
 - ✋ Paused:
