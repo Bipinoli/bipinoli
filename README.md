@@ -3,7 +3,7 @@
 - ✍️ Occasional [blogs](https://bipinoli.github.io/) 
 
 - 🔭 I’m currently:
-  - Playing with C++
+  - Reading technical books (Effective C++, The art of writing efficient programs, etc)
   
 
 - ✋ Paused:
