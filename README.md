@@ -14,6 +14,7 @@
 - 👻 Past work:
   - [VeriRISCy: Instruction pipelined RISC processor implementation](https://github.com/Bipinoli/VeriRISCy)
   - [Distributed file system based on Frangipani paper](https://github.com/Bipinoli/distributed-file-system)
+  - [Unix-like shell (IO redirection, background jobs)](https://github.com/Bipinoli/unix-like-shell)
   - [LSTM-based music generation](https://github.com/Bipinoli/Music-Generation-with-LSTM)
   - [Online price tracker with chrome extension](https://github.com/Bipinoli/Online-Price-Tracker-with-Chrome-Extension)
   - [Content aware image resizing](https://github.com/Bipinoli/Content-Aware-Image-Resizing-with-Seam-Carving)
