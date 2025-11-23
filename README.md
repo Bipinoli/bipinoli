@@ -3,7 +3,8 @@
 - ✍️ Occasional [blogs](https://bipinoli.github.io/) 
 
 - 🔭 I’m currently:
-  - Reading technical books (~Effective C++~, C++ Concurrency in Action, The art of writing efficient programs)
+  - Reading technical books on free time
+  - [Occasionally GPU programming](https://github.com/Bipinoli/GPU-programming/tree/main)
   
 
 - ✋ Paused:
