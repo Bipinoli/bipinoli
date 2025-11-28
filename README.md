@@ -3,7 +3,7 @@
 - ✍️ Occasional [blogs](https://bipinoli.github.io/) 
 
 - 🔭 I’m currently:
-  - Reading technical books on free time
+  - [Reading technical books on free time](https://github.com/Bipinoli/Study-Notes/tree/main)
   - [Occasionally GPU programming](https://github.com/Bipinoli/GPU-programming/tree/main)
   
 
